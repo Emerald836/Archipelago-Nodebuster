@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c06xv502no88t"
+path="res://.godot/imported/MouseUp.ogg-4fbb90b1e68d6a441fe97c32bb87d084.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/MouseUp.ogg"
+dest_files=["res://.godot/imported/MouseUp.ogg-4fbb90b1e68d6a441fe97c32bb87d084.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

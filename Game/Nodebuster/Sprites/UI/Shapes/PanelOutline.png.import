@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dn1eogftya5em"
+path="res://.godot/imported/PanelOutline.png-86ce8a07fd7d20520709b648d5549856.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Shapes/PanelOutline.png"
+dest_files=["res://.godot/imported/PanelOutline.png-86ce8a07fd7d20520709b648d5549856.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

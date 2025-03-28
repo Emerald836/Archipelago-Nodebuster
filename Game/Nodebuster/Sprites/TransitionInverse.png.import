@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://4h0c6bjsjqhj"
+path="res://.godot/imported/TransitionInverse.png-0dd5215d72abe3f82fa32e99fe408ba4.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/TransitionInverse.png"
+dest_files=["res://.godot/imported/TransitionInverse.png-0dd5215d72abe3f82fa32e99fe408ba4.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

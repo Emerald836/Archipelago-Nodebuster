@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ddytba2or33qn"
+path="res://.godot/imported/Processors.png-a356e4f37c02bffb04f1417029ee4dc5.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Processors.png"
+dest_files=["res://.godot/imported/Processors.png-a356e4f37c02bffb04f1417029ee4dc5.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

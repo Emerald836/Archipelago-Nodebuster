@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ph8683gcmm5c"
+path="res://.godot/imported/SpikyBall.png-baec7550c7135a7a577f88269c6191b9.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Enemies/SpikyBall.png"
+dest_files=["res://.godot/imported/SpikyBall.png-baec7550c7135a7a577f88269c6191b9.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

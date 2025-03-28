@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cf465yppdbsim"
+path="res://.godot/imported/SpikyBallMask.png-712a1015ac4e46df11702749026d7b71.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Enemies/SpikyBallMask.png"
+dest_files=["res://.godot/imported/SpikyBallMask.png-712a1015ac4e46df11702749026d7b71.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

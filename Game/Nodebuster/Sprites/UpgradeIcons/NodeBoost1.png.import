@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://t4mn8tsv38wk"
+path="res://.godot/imported/NodeBoost1.png-4f7e68c7b061638b50e201c872eb0e04.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/NodeBoost1.png"
+dest_files=["res://.godot/imported/NodeBoost1.png-4f7e68c7b061638b50e201c872eb0e04.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

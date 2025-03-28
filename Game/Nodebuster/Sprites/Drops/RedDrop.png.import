@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cbmu37uxm0be2"
+path="res://.godot/imported/RedDrop.png-3697ee314a1fc3b7e82840d3e48ba5f3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Drops/RedDrop.png"
+dest_files=["res://.godot/imported/RedDrop.png-3697ee314a1fc3b7e82840d3e48ba5f3.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

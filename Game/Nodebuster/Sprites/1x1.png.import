@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://6nmfqw35qrbg"
+path="res://.godot/imported/1x1.png-3c9d8a7b1c2ffdef35a37abf8ce32bd1.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/1x1.png"
+dest_files=["res://.godot/imported/1x1.png-3c9d8a7b1c2ffdef35a37abf8ce32bd1.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

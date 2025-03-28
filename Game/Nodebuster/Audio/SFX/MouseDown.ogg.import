@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dj4ctw5ncr5v8"
+path="res://.godot/imported/MouseDown.ogg-b21a295751f425423417e1ea831e128d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/MouseDown.ogg"
+dest_files=["res://.godot/imported/MouseDown.ogg-b21a295751f425423417e1ea831e128d.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://2vb3c5aovuv7"
+path="res://.godot/imported/MaxHealthToArmor1.png-9429cdb34e880831ed36049934bfc9d2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/MaxHealthToArmor1.png"
+dest_files=["res://.godot/imported/MaxHealthToArmor1.png-9429cdb34e880831ed36049934bfc9d2.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

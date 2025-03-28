@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dphk6e26ug0ju"
+path="res://.godot/imported/MovingPulserMask.png-24d501c7f75688bc17caa131f27e6730.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Battle/MovingPulserMask.png"
+dest_files=["res://.godot/imported/MovingPulserMask.png-24d501c7f75688bc17caa131f27e6730.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

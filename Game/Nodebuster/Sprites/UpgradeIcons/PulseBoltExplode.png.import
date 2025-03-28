@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dvilxbee8dyqs"
+path="res://.godot/imported/PulseBoltExplode.png-2da206296ed4f9b2fbb408270bafccb1.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/PulseBoltExplode.png"
+dest_files=["res://.godot/imported/PulseBoltExplode.png-2da206296ed4f9b2fbb408270bafccb1.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c0egmb3g5ygfu"
+path="res://.godot/imported/HoliznaCC0 - Lofi And Chill - 03 Something In The Air.ogg-265bbf8116ccce4f9e4e71e0512a2a6e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/HoliznaCC0 - Lofi And Chill - 03 Something In The Air.ogg"
+dest_files=["res://.godot/imported/HoliznaCC0 - Lofi And Chill - 03 Something In The Air.ogg-265bbf8116ccce4f9e4e71e0512a2a6e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

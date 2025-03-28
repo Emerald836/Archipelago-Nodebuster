@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://buekg732eaaq3"
+path="res://.godot/imported/Smile.png-91676fdf10ba40333c9dd880d2a89951.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Smile.png"
+dest_files=["res://.godot/imported/Smile.png-91676fdf10ba40333c9dd880d2a89951.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

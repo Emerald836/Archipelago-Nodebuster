@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b6eobc60x0ji7"
+path="res://.godot/imported/Shard.png-7db92ae01082bfdf70670f2f1f127dd5.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Particles/Shard.png"
+dest_files=["res://.godot/imported/Shard.png-7db92ae01082bfdf70670f2f1f127dd5.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

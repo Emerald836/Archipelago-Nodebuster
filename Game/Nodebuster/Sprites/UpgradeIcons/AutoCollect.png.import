@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://enj8gtqpi6qj"
+path="res://.godot/imported/AutoCollect.png-cdd261090027234b70f13542f20de9a3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/AutoCollect.png"
+dest_files=["res://.godot/imported/AutoCollect.png-cdd261090027234b70f13542f20de9a3.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

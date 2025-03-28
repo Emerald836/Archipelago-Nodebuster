@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cl7nqcolj52v8"
+path="res://.godot/imported/Size1.png-b2e1abccb1d3475f2b0679efc093fe2d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Size1.png"
+dest_files=["res://.godot/imported/Size1.png-b2e1abccb1d3475f2b0679efc093fe2d.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

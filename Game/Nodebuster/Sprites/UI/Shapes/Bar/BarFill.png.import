@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cq0q0rhrmt78y"
+path="res://.godot/imported/BarFill.png-7ac4767bc26a4881157cead3f1300f10.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Shapes/Bar/BarFill.png"
+dest_files=["res://.godot/imported/BarFill.png-7ac4767bc26a4881157cead3f1300f10.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

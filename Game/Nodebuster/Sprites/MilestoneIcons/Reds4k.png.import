@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dr22kuobvqq6l"
+path="res://.godot/imported/Reds4k.png-756b2d4ac2925ece3669d352224313f5.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/MilestoneIcons/Reds4k.png"
+dest_files=["res://.godot/imported/Reds4k.png-756b2d4ac2925ece3669d352224313f5.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

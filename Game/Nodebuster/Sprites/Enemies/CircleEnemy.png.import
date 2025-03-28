@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://drwvf6t0d3rbd"
+path="res://.godot/imported/CircleEnemy.png-a8ef12d15132134b35126d7c60f4f221.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Enemies/CircleEnemy.png"
+dest_files=["res://.godot/imported/CircleEnemy.png-a8ef12d15132134b35126d7c60f4f221.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

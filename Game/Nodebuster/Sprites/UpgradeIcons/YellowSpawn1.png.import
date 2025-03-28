@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://k3s5al7j88kt"
+path="res://.godot/imported/YellowSpawn1.png-b3216f9435523ad0f54afaa5f6224151.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/YellowSpawn1.png"
+dest_files=["res://.godot/imported/YellowSpawn1.png-b3216f9435523ad0f54afaa5f6224151.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

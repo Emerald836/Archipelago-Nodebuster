@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://caa8vr3hd0gm6"
+path="res://.godot/imported/PickupStart.ogg-51da529db383e714d8b565832b24e945.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/PickupStart.ogg"
+dest_files=["res://.godot/imported/PickupStart.ogg-51da529db383e714d8b565832b24e945.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

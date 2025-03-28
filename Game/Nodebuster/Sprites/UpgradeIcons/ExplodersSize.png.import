@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bahiexwv7swax"
+path="res://.godot/imported/ExplodersSize.png-c661996342ed7c2a8df4c057ca95c361.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/ExplodersSize.png"
+dest_files=["res://.godot/imported/ExplodersSize.png-c661996342ed7c2a8df4c057ca95c361.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

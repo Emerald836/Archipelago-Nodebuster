@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://deai5gn8moykw"
+path="res://.godot/imported/Hit2.ogg-bd1f31f0b7fe9a9fe386db44927951db.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/Hit2.ogg"
+dest_files=["res://.godot/imported/Hit2.ogg-bd1f31f0b7fe9a9fe386db44927951db.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

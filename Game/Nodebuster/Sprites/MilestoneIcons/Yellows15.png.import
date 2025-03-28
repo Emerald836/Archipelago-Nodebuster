@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bc6shotr0pfao"
+path="res://.godot/imported/Yellows15.png-824a6c521ea1feb108f2ff4c33246e48.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/MilestoneIcons/Yellows15.png"
+dest_files=["res://.godot/imported/Yellows15.png-824a6c521ea1feb108f2ff4c33246e48.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

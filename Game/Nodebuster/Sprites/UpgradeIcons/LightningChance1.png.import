@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://4qp4ur5bkqnn"
+path="res://.godot/imported/LightningChance1.png-42c11532d6cbabcbd3944bd7224b83a1.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/LightningChance1.png"
+dest_files=["res://.godot/imported/LightningChance1.png-42c11532d6cbabcbd3944bd7224b83a1.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dk58bl4oncfl"
+path="res://.godot/imported/SquareEnemyMask.png-44cf8fd7b7851e59169277a4c3434990.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Enemies/SquareEnemyMask.png"
+dest_files=["res://.godot/imported/SquareEnemyMask.png-44cf8fd7b7851e59169277a4c3434990.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

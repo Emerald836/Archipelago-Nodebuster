@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://7fueoadr5mxk"
+path="res://.godot/imported/Lifesteal1.png-fe7d287703539cc13ee4f24e1cf274a8.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Lifesteal1.png"
+dest_files=["res://.godot/imported/Lifesteal1.png-fe7d287703539cc13ee4f24e1cf274a8.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dm80168isjjl8"
+path="res://.godot/imported/Reds30k.png-ee518756f3f772e7df0149bd0ae80d03.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/MilestoneIcons/Reds30k.png"
+dest_files=["res://.godot/imported/Reds30k.png-ee518756f3f772e7df0149bd0ae80d03.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

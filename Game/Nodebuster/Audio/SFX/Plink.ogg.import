@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bhsffi0b46idx"
+path="res://.godot/imported/Plink.ogg-845847a7701edb01f83b7d4392f8e24f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/Plink.ogg"
+dest_files=["res://.godot/imported/Plink.ogg-845847a7701edb01f83b7d4392f8e24f.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

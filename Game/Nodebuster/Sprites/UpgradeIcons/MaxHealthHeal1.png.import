@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b81jx2fu7csxr"
+path="res://.godot/imported/MaxHealthHeal1.png-099bd436f80ba5519a89763187b1b752.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/MaxHealthHeal1.png"
+dest_files=["res://.godot/imported/MaxHealthHeal1.png-099bd436f80ba5519a89763187b1b752.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

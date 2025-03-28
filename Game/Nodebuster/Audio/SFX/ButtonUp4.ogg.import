@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bl2mgnvsumkky"
+path="res://.godot/imported/ButtonUp4.ogg-600c326ab3e849d33535823327cebb8a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/ButtonUp4.ogg"
+dest_files=["res://.godot/imported/ButtonUp4.ogg-600c326ab3e849d33535823327cebb8a.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cvxe6prdobanx"
+path="res://.godot/imported/PentagonEnemyMask.png-f9141b22c05bcee6f88f43adef46f303.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Enemies/PentagonEnemyMask.png"
+dest_files=["res://.godot/imported/PentagonEnemyMask.png-f9141b22c05bcee6f88f43adef46f303.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://noqcjdwoegow"
+path="res://.godot/imported/Blues1.6k.png-3be21f30d076439ccb46118254357c8e.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/MilestoneIcons/Blues1.6k.png"
+dest_files=["res://.godot/imported/Blues1.6k.png-3be21f30d076439ccb46118254357c8e.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

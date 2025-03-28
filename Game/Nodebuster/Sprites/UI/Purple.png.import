@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dmcwi8llt6ujc"
+path="res://.godot/imported/Purple.png-2786e9517fae4a88e69b54467495555a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Purple.png"
+dest_files=["res://.godot/imported/Purple.png-2786e9517fae4a88e69b54467495555a.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

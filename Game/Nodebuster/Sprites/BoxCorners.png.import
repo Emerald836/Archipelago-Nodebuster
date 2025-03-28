@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dhmjhvh5xi8oe"
+path="res://.godot/imported/BoxCorners.png-bbb39dd3474bd3384f5ed479c1d1b4a1.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/BoxCorners.png"
+dest_files=["res://.godot/imported/BoxCorners.png-bbb39dd3474bd3384f5ed479c1d1b4a1.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://chpcs5dqjc10k"
+path="res://.godot/imported/NodeFinder1.png-e83611a60df8f1f094dcde3a4e0820c0.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/NodeFinder1.png"
+dest_files=["res://.godot/imported/NodeFinder1.png-e83611a60df8f1f094dcde3a4e0820c0.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

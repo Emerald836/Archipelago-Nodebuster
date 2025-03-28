@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://drig56ak8hqq3"
+path="res://.godot/imported/Test.png-1fb8d30ad31ba7ece4bcfddfc0e24682.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/MilestoneIcons/Test.png"
+dest_files=["res://.godot/imported/Test.png-1fb8d30ad31ba7ece4bcfddfc0e24682.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

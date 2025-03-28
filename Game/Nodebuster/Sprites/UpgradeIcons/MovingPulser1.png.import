@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://vi246cajo56m"
+path="res://.godot/imported/MovingPulser1.png-f384d877c998aad984cab253794b9204.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/MovingPulser1.png"
+dest_files=["res://.godot/imported/MovingPulser1.png-f384d877c998aad984cab253794b9204.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

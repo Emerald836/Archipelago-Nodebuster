@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://db42vo0wxtlmh"
+path="res://.godot/imported/ButtonHover3.ogg-cfa8ce97193a6877d49faf539f16f05a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/ButtonHover3.ogg"
+dest_files=["res://.godot/imported/ButtonHover3.ogg-cfa8ce97193a6877d49faf539f16f05a.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

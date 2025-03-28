@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bkqekvfu8t8ui"
+path="res://.godot/imported/BarOutline.png-474ea717e87311ca53e1c88a55a487b4.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Shapes/Bar/BarOutline.png"
+dest_files=["res://.godot/imported/BarOutline.png-474ea717e87311ca53e1c88a55a487b4.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

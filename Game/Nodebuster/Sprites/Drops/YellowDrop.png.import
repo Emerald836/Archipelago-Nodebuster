@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bqv5lke8b2qug"
+path="res://.godot/imported/YellowDrop.png-2e2c68f61568fe3faa5086c68091c8f3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Drops/YellowDrop.png"
+dest_files=["res://.godot/imported/YellowDrop.png-2e2c68f61568fe3faa5086c68091c8f3.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

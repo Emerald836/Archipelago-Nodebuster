@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://tvfheso7npyt"
+path="res://.godot/imported/ExplodersChance.png-cd4c8e6274c6de2e1d91bd6462de203a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/ExplodersChance.png"
+dest_files=["res://.godot/imported/ExplodersChance.png-cd4c8e6274c6de2e1d91bd6462de203a.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

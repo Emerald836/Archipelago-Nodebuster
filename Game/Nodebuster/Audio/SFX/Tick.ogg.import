@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bd576hir4hj3n"
+path="res://.godot/imported/Tick.ogg-4aa53f5ebe7afcd56171aaf98657c5c0.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/Tick.ogg"
+dest_files=["res://.godot/imported/Tick.ogg-4aa53f5ebe7afcd56171aaf98657c5c0.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

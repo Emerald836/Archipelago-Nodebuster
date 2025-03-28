@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b27r05u1bvhl2"
+path="res://.godot/imported/HoliznaCC0 - Lofi And Chill - 16 Cellar Door.ogg-2db84598d79b8615976f51e8ce96d346.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/HoliznaCC0 - Lofi And Chill - 16 Cellar Door.ogg"
+dest_files=["res://.godot/imported/HoliznaCC0 - Lofi And Chill - 16 Cellar Door.ogg-2db84598d79b8615976f51e8ce96d346.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

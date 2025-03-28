@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cwhu6lhiwe10p"
+path="res://.godot/imported/PillEnemy.png-626a4cf42f5a17f96abae1072d9b1f0a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Enemies/PillEnemy.png"
+dest_files=["res://.godot/imported/PillEnemy.png-626a4cf42f5a17f96abae1072d9b1f0a.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

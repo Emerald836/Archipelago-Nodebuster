@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dbq63p18w41r4"
+path="res://.godot/imported/Blue.png-e7276925e210dfbd3d305e01e091883c.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Blue.png"
+dest_files=["res://.godot/imported/Blue.png-e7276925e210dfbd3d305e01e091883c.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

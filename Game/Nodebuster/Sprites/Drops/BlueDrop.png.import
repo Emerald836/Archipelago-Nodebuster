@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c247fybyiko7g"
+path="res://.godot/imported/BlueDrop.png-7519f34da578450f47b4fd1643ee1bb0.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Drops/BlueDrop.png"
+dest_files=["res://.godot/imported/BlueDrop.png-7519f34da578450f47b4fd1643ee1bb0.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

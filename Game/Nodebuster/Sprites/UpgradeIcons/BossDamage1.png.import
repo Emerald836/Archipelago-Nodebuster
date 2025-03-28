@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cs78cjehb45kv"
+path="res://.godot/imported/BossDamage1.png-fb5dde66fb9750248b512309f165c088.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/BossDamage1.png"
+dest_files=["res://.godot/imported/BossDamage1.png-fb5dde66fb9750248b512309f165c088.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

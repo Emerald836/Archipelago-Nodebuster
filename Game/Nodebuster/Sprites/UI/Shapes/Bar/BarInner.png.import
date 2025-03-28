@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ddp8af40xma3m"
+path="res://.godot/imported/BarInner.png-c65e793bcc8c9e5a5121718d75c2d8cc.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Shapes/Bar/BarInner.png"
+dest_files=["res://.godot/imported/BarInner.png-c65e793bcc8c9e5a5121718d75c2d8cc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

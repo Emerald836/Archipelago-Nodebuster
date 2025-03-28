@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cq4iw4ilppjxy"
+path="res://.godot/imported/Undamaged2.png-2b54e0cf35a61bcd9d1fe6d89fcc803c.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Undamaged2.png"
+dest_files=["res://.godot/imported/Undamaged2.png-2b54e0cf35a61bcd9d1fe6d89fcc803c.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

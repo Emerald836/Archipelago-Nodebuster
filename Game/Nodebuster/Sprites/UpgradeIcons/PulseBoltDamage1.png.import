@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://tx13t2x7vrk2"
+path="res://.godot/imported/PulseBoltDamage1.png-ab2eeb99621954912065b0b4573962c9.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/PulseBoltDamage1.png"
+dest_files=["res://.godot/imported/PulseBoltDamage1.png-ab2eeb99621954912065b0b4573962c9.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cbxoue0l4t7v1"
+path="res://.godot/imported/HoliznaCC0 - Lofi And Chill - 07 Vintage.ogg-342af95e585279f77798971134bf8e96.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/BGM/HoliznaCC0 - Lofi And Chill - 07 Vintage.ogg"
+dest_files=["res://.godot/imported/HoliznaCC0 - Lofi And Chill - 07 Vintage.ogg-342af95e585279f77798971134bf8e96.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

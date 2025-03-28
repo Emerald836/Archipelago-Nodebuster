@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dm5clwt6qweit"
+path="res://.godot/imported/Square32.png-7730c8999080f76d530be33c06cfc88e.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Square32.png"
+dest_files=["res://.godot/imported/Square32.png-7730c8999080f76d530be33c06cfc88e.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

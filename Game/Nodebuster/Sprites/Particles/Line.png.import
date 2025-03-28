@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cek1spaak73ao"
+path="res://.godot/imported/Line.png-0500faaa568a5f69a36c8844c93f5850.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Particles/Line.png"
+dest_files=["res://.godot/imported/Line.png-0500faaa568a5f69a36c8844c93f5850.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

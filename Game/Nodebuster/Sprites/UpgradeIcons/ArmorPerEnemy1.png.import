@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://3arc2w0f0oet"
+path="res://.godot/imported/ArmorPerEnemy1.png-a8512a2b0a8659d492916293c9839553.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/ArmorPerEnemy1.png"
+dest_files=["res://.godot/imported/ArmorPerEnemy1.png-a8512a2b0a8659d492916293c9839553.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

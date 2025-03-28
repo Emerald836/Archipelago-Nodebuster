@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cywigcay6nsuu"
+path="res://.godot/imported/PulseBoltCount1.png-703e3fa7c257577c2ac3b95225f33319.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/PulseBoltCount1.png"
+dest_files=["res://.godot/imported/PulseBoltCount1.png-703e3fa7c257577c2ac3b95225f33319.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

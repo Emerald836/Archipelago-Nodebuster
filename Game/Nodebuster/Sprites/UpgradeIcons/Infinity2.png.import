@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dyo1s2mso3k1r"
+path="res://.godot/imported/Infinity2.png-92d421965a853e96fae0ecbd1d0cbdc3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Infinity2.png"
+dest_files=["res://.godot/imported/Infinity2.png-92d421965a853e96fae0ecbd1d0cbdc3.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

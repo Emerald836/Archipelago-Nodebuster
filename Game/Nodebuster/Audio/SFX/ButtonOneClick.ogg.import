@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b4lhjdlak00yo"
+path="res://.godot/imported/ButtonOneClick.ogg-9857193dcebc04ea2fecaa41c7b53ac6.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/ButtonOneClick.ogg"
+dest_files=["res://.godot/imported/ButtonOneClick.ogg-9857193dcebc04ea2fecaa41c7b53ac6.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

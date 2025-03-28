@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bo6lhtrpf8rar"
+path="res://.godot/imported/BitBoost1.png-b58d8977ff8988df528c45467b65e019.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/BitBoost1.png"
+dest_files=["res://.godot/imported/BitBoost1.png-b58d8977ff8988df528c45467b65e019.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

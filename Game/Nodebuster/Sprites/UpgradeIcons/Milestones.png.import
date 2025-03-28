@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bg8mpn6gv2kh7"
+path="res://.godot/imported/Milestones.png-546ba703b9b53f6caf688003fa7348d0.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Milestones.png"
+dest_files=["res://.godot/imported/Milestones.png-546ba703b9b53f6caf688003fa7348d0.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

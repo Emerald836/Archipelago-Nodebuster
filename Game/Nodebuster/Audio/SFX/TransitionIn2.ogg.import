@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://6d7av4v5jpjw"
+path="res://.godot/imported/TransitionIn2.ogg-f4cf894dd6417b021c5bbec0f2169425.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/TransitionIn2.ogg"
+dest_files=["res://.godot/imported/TransitionIn2.ogg-f4cf894dd6417b021c5bbec0f2169425.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

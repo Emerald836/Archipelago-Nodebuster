@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://3ryoli447q1q"
+path="res://.godot/imported/Armor4.png-17c094bfa0e2a51d78a870a2417d8582.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Armor4.png"
+dest_files=["res://.godot/imported/Armor4.png-17c094bfa0e2a51d78a870a2417d8582.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

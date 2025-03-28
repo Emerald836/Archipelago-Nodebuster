@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://chobqfyj5txbm"
+path="res://.godot/imported/LevelUpJingle.ogg-5980a7950e3218066915616140f950aa.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/LevelUpJingle.ogg"
+dest_files=["res://.godot/imported/LevelUpJingle.ogg-5980a7950e3218066915616140f950aa.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://xumjet3ch8g0"
+path="res://.godot/imported/Netcoin.png-9f652a1607b3994a3bb860495c804969.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UI/Netcoin.png"
+dest_files=["res://.godot/imported/Netcoin.png-9f652a1607b3994a3bb860495c804969.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

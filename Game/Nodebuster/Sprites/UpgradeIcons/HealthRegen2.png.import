@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://1de84c1k58i4"
+path="res://.godot/imported/HealthRegen2.png-b7c95fe5568ed2066cff479bfa73d6df.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/HealthRegen2.png"
+dest_files=["res://.godot/imported/HealthRegen2.png-b7c95fe5568ed2066cff479bfa73d6df.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

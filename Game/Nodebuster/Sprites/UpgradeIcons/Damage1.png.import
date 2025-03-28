@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b2vguk3lwbh5o"
+path="res://.godot/imported/Damage1.png-e83f56d85e552bb3c85fcd7a1d4138db.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Damage1.png"
+dest_files=["res://.godot/imported/Damage1.png-e83f56d85e552bb3c85fcd7a1d4138db.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

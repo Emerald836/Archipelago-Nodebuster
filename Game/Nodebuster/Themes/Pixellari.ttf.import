@@ -1,0 +1,15 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://bbuh2inqlmj7o"
+path="res://.godot/imported/Pixellari.ttf-bfbc4bfd81c5a4febb8528241ceddb4e.fontdata"
+
+[deps]
+
+source_file="res://Themes/Pixellari.ttf"
+dest_files=["res://.godot/imported/Pixellari.ttf-bfbc4bfd81c5a4febb8528241ceddb4e.fontdata"]
+
+[params]
+
+dummy_value_ignore_me=0

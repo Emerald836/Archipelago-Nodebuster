@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://7aum7ky30awx"
+path="res://.godot/imported/VCR.ogg-2288d7aa3ea4508edd2c5d8d2b5d46ec.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/VCR.ogg"
+dest_files=["res://.godot/imported/VCR.ogg-2288d7aa3ea4508edd2c5d8d2b5d46ec.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

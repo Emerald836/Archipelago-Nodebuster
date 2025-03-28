@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b4hnrrwqbxpt4"
+path="res://.godot/imported/Pulse.ogg-d858e452f7dc7f393c9932ac3577d59b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/Pulse.ogg"
+dest_files=["res://.godot/imported/Pulse.ogg-d858e452f7dc7f393c9932ac3577d59b.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

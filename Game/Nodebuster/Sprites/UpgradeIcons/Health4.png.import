@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://6fre6j6wep3u"
+path="res://.godot/imported/Health4.png-4073ed289015e0b0408fa2766f70c632.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Health4.png"
+dest_files=["res://.godot/imported/Health4.png-4073ed289015e0b0408fa2766f70c632.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

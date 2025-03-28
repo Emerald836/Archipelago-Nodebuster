@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b5pb58watrtge"
+path="res://.godot/imported/Blues10.png-89344d0e960b9f908f143d1381153466.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/MilestoneIcons/Blues10.png"
+dest_files=["res://.godot/imported/Blues10.png-89344d0e960b9f908f143d1381153466.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

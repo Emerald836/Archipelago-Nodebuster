@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://h818dg3wqeaa"
+path="res://.godot/imported/StealMaxHealth2.png-0768a3ed46ce37b3435ba0c4810eaf7e.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/StealMaxHealth2.png"
+dest_files=["res://.godot/imported/StealMaxHealth2.png-0768a3ed46ce37b3435ba0c4810eaf7e.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

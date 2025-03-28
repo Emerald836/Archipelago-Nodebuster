@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b12vi8u00g0ps"
+path="res://.godot/imported/BonusDropChance1.png-768475b35ca88b6beadadefe86035797.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/BonusDropChance1.png"
+dest_files=["res://.godot/imported/BonusDropChance1.png-768475b35ca88b6beadadefe86035797.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

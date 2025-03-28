@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://barppqi8nfphe"
+path="res://.godot/imported/Blues500.png-365579b0255718ed0656650343d715a2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/MilestoneIcons/Blues500.png"
+dest_files=["res://.godot/imported/Blues500.png-365579b0255718ed0656650343d715a2.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

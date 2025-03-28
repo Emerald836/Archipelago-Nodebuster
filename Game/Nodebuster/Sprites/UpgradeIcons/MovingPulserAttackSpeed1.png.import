@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dy5q0xt21kftw"
+path="res://.godot/imported/MovingPulserAttackSpeed1.png-0a65b340754864bc1bd6c7f0a69d539d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/MovingPulserAttackSpeed1.png"
+dest_files=["res://.godot/imported/MovingPulserAttackSpeed1.png-0a65b340754864bc1bd6c7f0a69d539d.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

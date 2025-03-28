@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://djgumytqe8jfr"
+path="res://.godot/imported/PentagonEnemy.png-b14ce4164616ae7ae37f30662280dda7.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/Enemies/PentagonEnemy.png"
+dest_files=["res://.godot/imported/PentagonEnemy.png-b14ce4164616ae7ae37f30662280dda7.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dowo2yfp7hliw"
+path="res://.godot/imported/Deploying.ogg-a3de508d5e07ab740773a11739675a9b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/Deploying.ogg"
+dest_files=["res://.godot/imported/Deploying.ogg-a3de508d5e07ab740773a11739675a9b.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

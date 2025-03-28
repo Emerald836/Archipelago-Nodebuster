@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bdgnkrmgojj3b"
+path="res://.godot/imported/Lose.ogg-da822658aaf6e5e490cab316794b36f3.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/Lose.ogg"
+dest_files=["res://.godot/imported/Lose.ogg-da822658aaf6e5e490cab316794b36f3.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

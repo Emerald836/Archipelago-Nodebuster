@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bxy5ohd1aqboj"
+path="res://.godot/imported/Armor5.png-38858385d67279e33877c7b2f9f3664d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/Armor5.png"
+dest_files=["res://.godot/imported/Armor5.png-38858385d67279e33877c7b2f9f3664d.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

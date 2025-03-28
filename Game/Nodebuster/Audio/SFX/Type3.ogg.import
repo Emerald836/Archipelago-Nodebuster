@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cbic7avbjikpd"
+path="res://.godot/imported/Type3.ogg-a87c083a26b8022275bbbe48c9992e71.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/SFX/Type3.ogg"
+dest_files=["res://.godot/imported/Type3.ogg-a87c083a26b8022275bbbe48c9992e71.oggvorbisstr"]
+
+[params]
+
+dummy_value_ignore_me=0

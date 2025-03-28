@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c3pj0o8vkjo17"
+path="res://.godot/imported/DamagePerEnemy1.png-3bfac3fb1cf4f9ecd8d07f27d830bca3.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/UpgradeIcons/DamagePerEnemy1.png"
+dest_files=["res://.godot/imported/DamagePerEnemy1.png-3bfac3fb1cf4f9ecd8d07f27d830bca3.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

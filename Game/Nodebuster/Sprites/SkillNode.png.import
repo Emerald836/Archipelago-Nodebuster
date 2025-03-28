@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bnieoit2u5yx2"
+path="res://.godot/imported/SkillNode.png-cd47971a329f6db34b011f0fb14186c2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Sprites/SkillNode.png"
+dest_files=["res://.godot/imported/SkillNode.png-cd47971a329f6db34b011f0fb14186c2.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0
