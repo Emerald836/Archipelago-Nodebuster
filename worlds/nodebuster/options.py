@@ -6,13 +6,18 @@ from Options import Toggle, Choice, DeathLinkMixin, StartInventoryPool, PerGameC
 
 class Goal(Choice):
     """Defines the goal to accomplish in order to complete the randomizer.
-
-    - release virus
+       
+    - Release Virus
+    - Release Virus with all 9 infinity upgrades unlocked
+    - Buy every upgrade
+    - Buy every upgrade and unlock every milestone
     
     - complete all milestones"""
     display_name = "Goal"
     option_release_virus = 0
-    option_complete_all_milestones = 1
+    option_release_virus_with_infinity = 1
+    option_buy_every_upgrade = 2
+    option_unlock_everything = 3
     default = 0
 
 
