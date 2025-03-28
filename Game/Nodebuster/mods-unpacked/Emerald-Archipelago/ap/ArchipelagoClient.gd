@@ -98,7 +98,7 @@ func _connected():
 	client_connected.emit("Connected !")
 
 func _on_data(packet: PackedByteArray):
-	print("Got data from server: " + packet.get_string_from_utf8())
+	#print("Got data from server: " + packet.get_string_from_utf8())
 
 	var json = JSON.new()
 	var errorJson: Error = json.parse(packet.get_string_from_utf8())

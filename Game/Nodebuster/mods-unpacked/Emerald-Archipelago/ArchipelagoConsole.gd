@@ -31,7 +31,7 @@ func _process(delta):
 func _new_message(message:String) -> void:
 	print("Message recieved: ", message)
 	console_text.append_text("\n"+message)
-	archipelagoMain.console_history = console_text.text
+	#archipelagoMain.console_history = console_text.text
 
 
 func _check_cmd(message:String) -> void:

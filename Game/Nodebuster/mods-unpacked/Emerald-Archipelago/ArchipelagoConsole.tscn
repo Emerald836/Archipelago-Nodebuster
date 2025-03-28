@@ -3,6 +3,7 @@
 [ext_resource type="Script" path="res://mods-unpacked/Emerald-Archipelago/ArchipelagoConsole.gd" id="1_582y3"]
 
 [node name="CanvasLayer" type="CanvasLayer"]
+layer = 10
 script = ExtResource("1_582y3")
 
 [node name="ArchipelagoConsole" type="Control" parent="."]
@@ -50,7 +51,7 @@ size_flags_horizontal = 8
 mouse_filter = 1
 button_pressed = true
 
-[connection signal="text_submitted" from="ArchipelagoConsole/VBoxContainer/ScrollContainer/ConsoleInput" to="ArchipelagoConsole" method="_on_console_input_text_submitted"]
 [connection signal="text_submitted" from="ArchipelagoConsole/VBoxContainer/ScrollContainer/ConsoleInput" to="." method="_on_console_input_text_submitted"]
-[connection signal="toggled" from="ArchipelagoConsole/VBoxContainer/ConsoleToggle" to="ArchipelagoConsole" method="_on_console_toggle_toggled"]
+[connection signal="text_submitted" from="ArchipelagoConsole/VBoxContainer/ScrollContainer/ConsoleInput" to="ArchipelagoConsole" method="_on_console_input_text_submitted"]
 [connection signal="toggled" from="ArchipelagoConsole/VBoxContainer/ConsoleToggle" to="." method="_on_console_toggle_toggled"]
+[connection signal="toggled" from="ArchipelagoConsole/VBoxContainer/ConsoleToggle" to="ArchipelagoConsole" method="_on_console_toggle_toggled"]

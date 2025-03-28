@@ -34,6 +34,7 @@ func vanilla_1419401520_load_upgrade(_upgrade: Upgrade) -> void:
 	refresh_ui()
 
 func vanilla_1419401520_refresh_ui() -> void:
+	print("test")
 	if not upgrade: return
 	upgrade_name.text = upgrade.name
 	description.text = "[center]%s[/center]" % upgrade.description
